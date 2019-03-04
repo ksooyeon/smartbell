@@ -1,0 +1,5 @@
+<root>
+    <item name='com.firebase.ui.storage.images.FirebaseImageLoader'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
